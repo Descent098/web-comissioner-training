@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{{ config["name"] }}</title>
+	</head>
+
+{% if config["recruiting"] %}
+<h1>We're Recruiting</h1>
+{% endif %}
+
+{{pages_html | safe}}

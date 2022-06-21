@@ -1,0 +1,13 @@
+created: 2022-04-22
+ezcv_version: 0.3.0
+folder: theme
+name: theme
+required_config:
+  name:
+    default: name
+    description: Your full name
+    type: str
+sections:
+  pages:
+    type: markdown
+updated: 2022-6-20
