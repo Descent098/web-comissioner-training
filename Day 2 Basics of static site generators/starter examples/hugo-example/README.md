@@ -1,5 +1,9 @@
 # Hugo demo
 
+
+
+
+
 ## Steps to recreate example site
 
 1. Install hugo

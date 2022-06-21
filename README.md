@@ -2,16 +2,12 @@
 
 The purpose of this repo is to collect together the resources for web comissioner training. 
 
-
-
 ## Table of contents
 
 - [Day 1 Basics of HTML, CSS, JS](#day-1-basics-of-html-css-js)
 - [Day 2 Basics of static site generators](#day-2-basics-of-static-site-generators)
 - [Day 3 Basics of CI/CD, git deployments, and a tour around our system](#day-3-basics-of-cicd-git-deployments-and-a-tour-around-our-system)
 - [Day 4 Networking & infastructure fundamentals](#day-4-networking--infastructure-fundamentals)
-
-
 
 **Assumptions/Prerequisites:**
 
@@ -20,6 +16,12 @@ The purpose of this repo is to collect together the resources for web comissione
 - You know some sort of programming language
 
 - If you already know web development you can skip lecture 1, if you know web developnment with static site generators you can skip 1 and 2
+
+- Setup on first download
+  
+  - On initial clone run `git submodule update --init --recursive`
+  
+  - Update submodules using `git submodule update --recursive --remote`
 
 ## Schedule
 
@@ -30,8 +32,6 @@ The purpose of this repo is to collect together the resources for web comissione
 | Basics of static site generators & usage of Hugo                 | [Static site generators](https://kieranwood.ca/static-site-generators)                                 | June 25th (Sat): 10-11:30 |
 | Basics of CI/CD, git deployments, and a tour around our system   | [Static Site Hosting done easily Slide 38 onward](https://kieranwood.ca/static-site-hosting/#slide=38) | July 1st (Fri) 10-11:30   |
 | Basic networking and infrastructure (how people access our site) |                                                                                                        | July 2nd (sat) 10-11:30   |
-
-
 
 ## Day 1 Basics of HTML, CSS, JS
 
