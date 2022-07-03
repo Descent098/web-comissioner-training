@@ -9,6 +9,7 @@ The purpose of this repo is to collect together the resources for web comissione
 - [Day 3 Basics of CI/CD, git deployments, and a tour around our system](#day-3-basics-of-cicd-git-deployments-and-a-tour-around-our-system)
 - [Day 4 Networking & infastructure fundamentals](#day-4-networking--infastructure-fundamentals)
 
+
 **Assumptions/Prerequisites:**
 
 - You know git & about github (see here if you dont: [Intro to Git (Schulich Ignite X NASA Space Apps)](https://www.youtube.com/watch?v=NwASRGFz5Wg) )
@@ -23,15 +24,19 @@ The purpose of this repo is to collect together the resources for web comissione
   
   - Update submodules using `git submodule update --recursive --remote`
 
+## Playlist
+
+There is a playlist with all the recordings of each session available here: [https://www.youtube.com/playlist?list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1](https://www.youtube.com/playlist?list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1)
+
 ## Schedule
 
-| Topic                                                            | Slides                                                                                                 | Date                      |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------- |
-| Fundamentals of version control and git                          | [Intro to Git (Schulich Ignite X NASA Space Apps) ](https://www.youtube.com/watch?v=NwASRGFz5Wg)       | N/A                       |
-| Basics of HTML/CSS/JS and basic web development workflows        | [Basic Web Technologies](https://kieranwood.ca/basic-web-technologies/)                                | June 24th (Fri): 10-11:30 |
-| Basics of static site generators & usage of Hugo                 | [Static site generators](https://kieranwood.ca/static-site-generators)                                 | June 25th (Sat): 10-11:30 |
-| Basics of CI/CD, git deployments, and a tour around our system   | [Static Site Hosting done easily Slide 38 onward](https://kieranwood.ca/static-site-hosting/#slide=38) | July 1st (Fri) 10-11:30   |
-| Basic networking and infrastructure (how people access our site) |                                                                                                        | July 2nd (sat) 10-11:30   |
+| Topic | Slides | Date | Recording | 
+| ----- | ------ | ---- | --------- |
+| Fundamentals of version control and git                          | [Intro to Git (Schulich Ignite X NASA Space Apps) ](https://www.youtube.com/watch?v=NwASRGFz5Wg)       | N/A                       | N/A |
+| Basics of HTML/CSS/JS and basic web development workflows        | [Basic Web Technologies](https://kieranwood.ca/basic-web-technologies/)                                | June 24th (Fri): 10-11:30 | [Video](https://www.youtube.com/watch?v=_iSrhSv3djA&list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1&) |
+| Basics of static site generators & usage of Hugo                 | [Static site generators](https://kieranwood.ca/static-site-generators)                                 | June 25th (Sat): 10-11:30 | [Video](https://www.youtube.com/watch?v=3e2vYeS9198&list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1) |
+| Basics of CI/CD, git deployments, and a tour around our system   | [CI/CD Basics](https://kieranwood.ca/ci-cd-basics) | July 1st (Fri) 10-11:30   | [Video](https://www.youtube.com/watch?v=J7mPK2C9V5A&list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1)
+| Basic networking and infrastructure (how people access our site) | [Basic Networking and infastructure](https://kieranwood.ca/basic-networking-infastructure/#slide=1)| July 2nd (sat) 10-11:30   | [Video](https://www.youtube.com/watch?v=HCpPehw1bwQ&list=PLY1W45yrIxjRA9H-FOZ-fX3VNpOuzvGW1) |
 
 ## Day 1 Basics of HTML, CSS, JS
 
@@ -114,7 +119,7 @@ The purpose of this repo is to collect together the resources for web comissione
 
 ## Day 3 Basics of CI/CD, git deployments, and a tour around our system
 
-- [Static Site Hosting done easily Slide 38 onward](https://kieranwood.ca/static-site-hosting/#slide=38)
+- Slides - [CI/CD Basics](https://kieranwood.ca/ci-cd-basics)
 
 - CI/CD
   
@@ -154,6 +159,8 @@ The purpose of this repo is to collect together the resources for web comissione
     - [GitHub - Schulich-Ignite/website: The 2020 revamp of the schulich ignite website](https://github.com/Schulich-Ignite/website#site-variables) (status)
 
 ## Day 4 Networking & infastructure fundamentals
+
+- [Slides](https://kieranwood.ca/basic-networking-infastructure/#slide=1)
 
 - Everything you need to know about networking to keep the site up and running along with a bit of extra theory to understand what each piece is doing
   
